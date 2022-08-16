@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 from time import sleep
 
-headers = {"User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.148 YaBrowser/22.7.2.902 Yowser/2.5 Safari/537.36"}
+headers = {"User-Agent": "}
 #def dowload(url):
 #	resp =requests.get(url,stream=True)
 #	r = open ("E:\\System_data\\6\\image\\"+  url.split("/")[-1],"wb" )
